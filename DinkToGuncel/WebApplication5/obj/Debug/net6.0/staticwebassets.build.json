@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "bffgqOHLhTq00bzHHqLIjO47k3jQwmUpuFQWeOtrJ9A=",
+  "Source": "WebApplication5",
+  "BasePath": "_content/WebApplication5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication5\\wwwroot",
+      "Source": "WebApplication5",
+      "ContentRoot": "C:\\Users\\PC_3829\\Desktop\\DinkToGuncel\\WebApplication5\\wwwroot\\",
+      "BasePath": "_content/WebApplication5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\PC_3829\\Desktop\\DinkToGuncel\\WebApplication5\\wwwroot\\Css\\Styles.css",
+      "SourceId": "WebApplication5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC_3829\\Desktop\\DinkToGuncel\\WebApplication5\\wwwroot\\",
+      "BasePath": "_content/WebApplication5",
+      "RelativePath": "Css/Styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Css\\Styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC_3829\\Desktop\\DinkToGuncel\\WebApplication5\\wwwroot\\Image\\Adsız.png",
+      "SourceId": "WebApplication5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC_3829\\Desktop\\DinkToGuncel\\WebApplication5\\wwwroot\\",
+      "BasePath": "_content/WebApplication5",
+      "RelativePath": "Image/Adsız.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\Adsız.png"
+    },
+    {
+      "Identity": "C:\\Users\\PC_3829\\Desktop\\DinkToGuncel\\WebApplication5\\wwwroot\\Image\\arsiv.png",
+      "SourceId": "WebApplication5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC_3829\\Desktop\\DinkToGuncel\\WebApplication5\\wwwroot\\",
+      "BasePath": "_content/WebApplication5",
+      "RelativePath": "Image/arsiv.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\arsiv.png"
+    },
+    {
+      "Identity": "C:\\Users\\PC_3829\\Desktop\\DinkToGuncel\\WebApplication5\\wwwroot\\Image\\deneme.jpg",
+      "SourceId": "WebApplication5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC_3829\\Desktop\\DinkToGuncel\\WebApplication5\\wwwroot\\",
+      "BasePath": "_content/WebApplication5",
+      "RelativePath": "Image/deneme.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\deneme.jpg"
+    }
+  ]
+}

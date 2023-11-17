@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC_3829\\Desktop\\DinkToGuncel\\WebApplication5\\wwwroot\\Css\\Styles.css",
+      "PackagePath": "staticwebassets\\Css\\Styles.css"
+    },
+    {
+      "Id": "C:\\Users\\PC_3829\\Desktop\\DinkToGuncel\\WebApplication5\\wwwroot\\Image\\Adsız.png",
+      "PackagePath": "staticwebassets\\Image\\Adsız.png"
+    },
+    {
+      "Id": "C:\\Users\\PC_3829\\Desktop\\DinkToGuncel\\WebApplication5\\wwwroot\\Image\\arsiv.png",
+      "PackagePath": "staticwebassets\\Image\\arsiv.png"
+    },
+    {
+      "Id": "C:\\Users\\PC_3829\\Desktop\\DinkToGuncel\\WebApplication5\\wwwroot\\Image\\deneme.jpg",
+      "PackagePath": "staticwebassets\\Image\\deneme.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication5.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication5.props",
+      "PackagePath": "build\\WebApplication5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication5.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication5.props",
+      "PackagePath": "buildTransitive\\WebApplication5.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
